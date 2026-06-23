@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: \n <a href='https://astronomy.nju.edu.cn/'>School of Astronomy and Space science, Nanjing University</a>. Nanjing, China, 210023; \n <a href='https://local.strw.leidenuniv.nl/'>Leiden Observatory, Leiden University</a> 2333 CC Leiden, the Netherlands.
+subtitle: >
+  <a href="https://astronomy.nju.edu.cn/">School of Astronomy and Space science, Nanjing University</a>, Nanjing, China, 210023;<br>
+  <a href="https://local.strw.leidenuniv.nl/">Leiden Observatory, Leiden University</a>, 2333 CC Leiden, the Netherlands.
 
 profile:
   align: right
