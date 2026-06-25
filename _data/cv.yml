@@ -3,7 +3,7 @@ cv:
   label: Ph.D. Candidate
   email: yichen_sun@smail.nju.edu.cn
   location: Nanjing, China
-  image: ""
+  #image: ""
   summary: A final-year Ph.D. candidate at School of Astronomy and Space Science, Nanjing University. A visiting Ph.D. student at Leiden Observatory.
 
   social_networks:
@@ -15,22 +15,22 @@ cv:
     #  username: example
 
   address:
-    street: 
+    street: 163 Xianlin Road
     city: Nanjing
-    region: Jiangsu Province 
-    postalCode: 230000
+    region: Jiangsu Province
+    postalCode: 230023
     countryCode: China
 
   sections:
     Education:
       - institution: Nanjing University
         location: Nanjing, China
-        url: https://www.uzh.ch/
+        url: https://www.nju.edu.cn/en/
         area: Astronomy
         studyType: Bachelor
         start_date: 2017.9
         end_date: 2021.6
-        score: ""
+        #score: ""
         #courses: "Theory of Relativity"
         #highlights:
         #  - Description 1.
