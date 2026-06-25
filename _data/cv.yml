@@ -36,15 +36,25 @@ cv:
         #  - Description 1.
         #  - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Nanjing University
+        location: Nanjing, China
+        area: Astrophysics
+        studyType: Ph.D.
+        start_date: 2021.9
+        end_date: 2027.6 
         highlights:
-          - Description 1.
-          - Description 2.
+          - The end date is a expected time.
+        #  - Description 2.
+
+      - institution: Leiden Observatory
+        location: Leiden, the Netherlands
+        area: Astrophysics
+        studyType: Ph.D. (guest)
+        start_date: 2024.10
+        end_date: 2026.10
+        #highlights:
+        #  - The end date is a expected time.
+        #  - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
