@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://astronomy.nju.edu.cn/">School of Astronomy and Space Science, Nanjing University</a>, Nanjing, China, 210023;<br>
+  <a href="https://astronomy.nju.edu.cn/EN/index.html">School of Astronomy and Space Science, Nanjing University</a>, Nanjing, China, 210023;<br>
   <a href="https://local.strw.leidenuniv.nl/">Leiden Observatory, Leiden University</a>, 2333 CC Leiden, the Netherlands.
 
 profile:

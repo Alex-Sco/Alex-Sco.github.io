@@ -25,7 +25,7 @@ cv:
     Education:
       - institution: Nanjing University
         location: Nanjing, China
-        url: https://www.nju.edu.cn/en/
+        #url: https://www.nju.edu.cn/en/
         area: Astronomy
         studyType: Bachelor
         start_date: 2017.9
