@@ -15,26 +15,26 @@ cv:
     #  username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Nanjing
+    region: Jiangsu Province 
+    postalCode: 230000
+    countryCode: China
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Nanjing University
+        location: Nanjing, China
         url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        area: Astronomy
+        studyType: Bachelor
+        start_date: 2017.9
+        end_date: 2021.6
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        #courses: "Theory of Relativity"
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
