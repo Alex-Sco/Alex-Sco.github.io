@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://astronomy.nju.edu.cn/">School of Astronomy and Space science, Nanjing University</a>, Nanjing, China, 210023;<br>
+  <a href="https://astronomy.nju.edu.cn/">School of Astronomy and Space Science, Nanjing University</a>, Nanjing, China, 210023;<br>
   <a href="https://local.strw.leidenuniv.nl/">Leiden Observatory, Leiden University</a>, 2333 CC Leiden, the Netherlands.
 
 profile:
@@ -20,12 +20,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: False # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -34,7 +34,7 @@ I am a Ph.D. candidate at the School of Astronomy and Space Science, Nanjing Uni
 
 My current research focuses on two main topics: (a) measuring CNO isotopic ratios in the Milky Way, especially in the Galactic outer disk; and (b) oxygen-bearing chemistry in photodissociation regions (PDRs) with varying C/N/O elemental abundance ratios. I am also interested in the hyperfine anomalies of CN, as well as the excitation and non-LTE radiative transfer of molecular line transitions in molecular clouds and star-forming regions. More details are on the Publications and Projects pages.
 
-Beyond astronomy, I am also interested in geography, biology, and psychology. I also enjoy mobile photography, science fictions (favorate books: <a href="https://en.wikipedia.org/wiki/Hyperion_Cantos">The Hyperion Cantos</a>, <a href="https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past">Remembrance of Earth's Past</a> and <a href="https://en.wikipedia.org/wiki/Summa_Technologiae">Summa Technologiae</a>), and rock music (favorate band: <a href="https://en.wikipedia.org/wiki/Dire_Straits">Dire Straits</a>). 
+Beyond astronomy, I am also interested in geography, biology, and psychology. I also enjoy mobile photography, science fiction (favorite books: <a href="https://en.wikipedia.org/wiki/Hyperion_Cantos">Hyperion Cantos</a>, <a href="https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past">Remembrance of Earth's Past</a> and <a href="https://en.wikipedia.org/wiki/Summa_Technologiae">Summa Technologiae</a>), and rock music (favorite band: <a href="https://en.wikipedia.org/wiki/Dire_Straits">Dire Straits</a>). 
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
