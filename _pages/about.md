@@ -11,9 +11,10 @@ profile:
   image: myphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Available Emails: </p>
+    <p>yichen_sun@smail.nju.edu.cn</p>
+    <p>ysun@mail.strw.leidenuniv.nl</p>
+    <p>yichensun20@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
