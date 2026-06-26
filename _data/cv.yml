@@ -84,7 +84,7 @@ cv:
     #      - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #      - "Men of the year 2014 by Time magazine"
 
-    Conference and Awards:
+    "Conference and Awards":
       - title: Nobel Prize in Physics
         authors:
           - "Royal Swedish Academy of Sciences"
