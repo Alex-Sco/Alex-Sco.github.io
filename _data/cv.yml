@@ -62,7 +62,7 @@ cv:
         end_date: 2019
         summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
         highlights:
-          - Supervisor: Yong Shi
+          - "Supervisor: Yong Shi"
           - at Nanjing University
 
       - name: "Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk."
@@ -70,10 +70,11 @@ cv:
         end_date: 2020
         summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
         highlights:
-          - Supervisor: Zhi-Yu Zhang
-          - at Nanjing University
+          - " Supervisor: Zhi-Yu Zhang"
+          - "at Nanjing University"
     
     Conference Experience:
+      - name: 
 
     Experience:  #maybe it is prepared for the postdoc
       - company: Institute for Advanced Study, Princeton University
