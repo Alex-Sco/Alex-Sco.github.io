@@ -55,8 +55,25 @@ cv:
         #highlights:
         #  - The end date is a expected time.
         #  - Description 2.
+    
+    Early Projects:
+      - Title: "Does the active immediate black holes have the dusty torus?"
+        Instition: Nanjing University
+        start_date: 2018
+        end_date: 2019
+        Supervisor: Yong Shi
+        Summary: Using the Balmer decrement, the color-color diagram and the X-ray signals to cross check the evidence of IMBHs in a sample of dwarf galaxies.
 
-    Experience:
+      - Title: "Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk."
+        Insitition: Nanjing University
+        start_date: 2019
+        end_date: 2020
+        Supervisor: Zhi-Yu Zhang
+        Summary: Do sub-mm data redcution toward single point integration data of molecular clouds, idenfify the line transitions, and calculate their abundance ratios.
+    
+    Conference Experience:
+
+    Experience:  #maybe it is prepared for the postdoc
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
         location: Princeton University, NJ
@@ -67,32 +84,6 @@ cv:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -153,7 +144,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Chinese
         summary: "Native speaker"
 
       - name: English
