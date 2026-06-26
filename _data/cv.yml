@@ -56,23 +56,7 @@ cv:
         #  - The end date is a expected time.
         #  - Description 2.
     
-    Early Projects:
-      - name: "Does the active immediate black holes have the dusty torus?"
-        summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
-        highlights:
-          - "Supervisor: Yong Shi"
-          - at Nanjing University
-        start_date: 2018
-        end_date: 2019
 
-
-      - name: "Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk."
-        start_date: 2019
-        end_date: 2020
-        summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
-        highlights:
-          - " Supervisor: Zhi-Yu Zhang"
-          - "at Nanjing University"
     
     #Conference Experience:
       
@@ -174,6 +158,24 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-envelope
+
+    Early Projects:
+      - name: Does the active immediate black holes have the dusty torus?
+        summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
+        highlights:
+          - "Supervisor: Yong Shi"
+          - Nanjing University
+        start_date: 2018-09
+        end_date: 2019-06
+
+      - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
+        summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
+        highlights:
+          - "Supervisor: Zhi-Yu Zhang"
+          - Nanjing University
+        start_date: 2019-09
+        end_date: 2020-06        
+        
 
     Projects:
       - name: Quantum Computing
