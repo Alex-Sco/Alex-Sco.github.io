@@ -100,23 +100,26 @@ cv:
     #      - "Men of the year 2014 by Time magazine"
 
     Conference and Awards:
-      - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
+      - company: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        position: Poster
         location: Xiamen, China
-        date: 2019-05
-        highlights:
-          - 'Poster: "Does Active IMBH have dusty torus?" '
-
-      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
-        location:  Hangzhou, China
-        date: 2021-05
-        higlights:
-          - 'Poster & Lighting Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
-
-      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics, Chengdu, China
-        location:  Chengdu, China
-        date: 2021-09
-        highlights: 
-          - 'Poster & Oral Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
+        start_date: 2019-05
+        end_date: 2019-05
+        summary: '"Does Active IMBH have dusty torus?"'
+    
+      - company: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        position: Poster & Lightning Talk
+        location: Hangzhou, China
+        start_date: 2021-05
+        end_date: 2021-05
+        summary: '"Measuring CNO isotopic ratios in the Galactic outer disk"'
+    
+      - company: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
+        position: Poster & Oral Talk
+        location: Chengdu, China
+        start_date: 2021-09
+        end_date: 2021-09
+        summary: '"Measuring CNO isotopic ratios in the Galactic outer disk"'
 
       
 
