@@ -105,12 +105,12 @@ cv:
         date: 2019-05
         summary: 'Poster: "Does Active IMBH have dusty torus?"'
     
-      - company: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
+      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
         location: Hangzhou, China
         date: 2021-05
         summary: 'Poster & Lightning Talk: "Measuring CNO isotopic ratios in the Galactic outer disk"'
     
-      - company: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
+      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
         location: Chengdu, China
         date: 2021-09
         summary: 'Poster & Oral Talk: "Measuring CNO isotopic ratios in the Galactic outer disk"'
