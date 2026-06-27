@@ -47,7 +47,7 @@ cv:
         #  - Description 2.
 
       - institution: Leiden Observatory
-        location: Leiden, the Netherlands
+        location: Leiden, Netherlands
         area: Astrophysics
         studyType: Ph.D. (guest)
         start_date: 2024-10
@@ -56,7 +56,22 @@ cv:
         #  - The end date is a expected time.
         #  - Description 2.
     
+    Early Projects:
+      - name: Does the active immediate black holes have the dusty torus?
+        summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
+        highlights:
+          - "Supervisor: Yong Shi"
+          - Nanjing University
+        start_date: 2018-09
+        end_date: 2019-06
 
+      - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
+        summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
+        highlights:
+          - "Supervisor: Zhi-Yu Zhang"
+          - Nanjing University
+        start_date: 2019-09
+        end_date: 2020-06     
     
     #Conference Experience:
       
@@ -84,23 +99,29 @@ cv:
     #      - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #      - "Men of the year 2014 by Time magazine"
 
-    "Conference and Awards":
-      - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology, Xiamen, China
+    Conference and Awards:
+      - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        location: Xiamen, China
         date: 2019-05
-        Summary: 'Poster: "Does Active IMBH have dusty torus?" '
+        highlights:
+          - 'Poster: "Does Active IMBH have dusty torus?" '
 
-
-      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology, Hangzhou, China
+      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        location:  Hangzhou, China
         date: 2021-05
-        Summary: 'Poster & Lighting Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
+        higlights:
+          - 'Poster & Lighting Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
+
+      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics, Chengdu, China
+        location:  Chengdu, China
+        date: 2021-09
+        highlights: 
+          - 'Poster & Oral Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
+
+      
 
 
-      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology, Hangzhou, China
-        date: 2021-05
-        Summary: 'Poster & Lighting Talk: "Measuring CNO isotopic ratios in the Galactic outer disk" '
 
-
-        
 
     Accepted Proposals:
       - title: ALMA Cycle-8 ACA supplement (P.I.)
@@ -124,8 +145,8 @@ cv:
       - title: ALMA cycle-11 (Co-I)
         date: 2024 
 
-      - title: ALMA cycle-11 (Co-I)
-        date: 2024 
+      - title: ALMA cycle-12 (Co-I)
+        date: 2025 
 
 
     #Publications:
@@ -164,45 +185,30 @@ cv:
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Fluent (Level of CET 6)"
 
     Interests:
-      - name: Physics
+      - name: Astronomy
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Interstellar medium, Astrochemistry, radiative transfer, molecular line structures, Galactic chemical evolution, Astrobiology, Philosophy of science in Astronomy"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    #Certificates:
+    #  - name: Machine Learning
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #  - name: Quantum Computing
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #  - name: Quantum Information
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-envelope
 
-    Early Projects:
-      - name: Does the active immediate black holes have the dusty torus?
-        summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
-        highlights:
-          - "Supervisor: Yong Shi"
-          - Nanjing University
-        start_date: 2018-09
-        end_date: 2019-06
-
-      - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
-        summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
-        highlights:
-          - "Supervisor: Zhi-Yu Zhang"
-          - Nanjing University
-        start_date: 2019-09
-        end_date: 2020-06        
+   
         
 
     Projects:
