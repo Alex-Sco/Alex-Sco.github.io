@@ -28,8 +28,8 @@ cv:
         #url: https://www.nju.edu.cn/en/
         area: Astronomy
         studyType: Bachelor
-        start_date: 2017.9
-        end_date: 2021.6
+        start_date: 2017-09
+        end_date: 2021-06
         #score: ""
         #courses: "Theory of Relativity"
         #highlights:
