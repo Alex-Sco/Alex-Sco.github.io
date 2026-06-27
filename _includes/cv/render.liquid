@@ -153,7 +153,88 @@
                 {% include cv/education.liquid %}
               {% elsif section_title == 'Conference and Awards' %}
                 {% assign entries = section_entries %}
-                {% include cv/experience.liquid %}
+                <ul class="card-text font-weight-light list-group list-group-flush">
+                  {% for entry in entries %}
+                    <li class="list-group-item">
+                      <div class="row">
+                        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+                          {% capture display_date %}
+                            {% if entry.date %}
+                              {{ entry.date }}
+                            {% elsif entry.start_date %}
+                              {% assign startDate = entry.start_date | split: '-' | first %}
+                              {% assign endDate = entry.end_date | split: '-' | first | default: 'Present' %}
+                              {{ startDate }} - {{ endDate }}
+                            {% elsif entry.startDate %}
+                              {% assign startDate = entry.startDate | split: '-' | first %}
+                              {% assign endDate = entry.endDate | split: '-' | first | default: 'Present' %}
+                              {{ startDate }} - {{ endDate }}
+                            {% endif %}
+                          {% endcapture %}
+
+                          <table class="table-cv">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                                    {{ display_date | strip }}
+                                  </span>
+                                </td>
+                              </tr>
+                              {% if entry.location %}
+                                <tr>
+                                  <td>
+                                    <p class="location">
+                                      <i class="fa-solid fa-location-dot iconlocation"></i>
+                                      {{ entry.location }}
+                                    </p>
+                                  </td>
+                                </tr>
+                              {% endif %}
+                            </tbody>
+                          </table>
+                        </div>
+
+                        <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
+                          {% capture position_title %}
+                            {% if entry.position %}{{ entry.position }}{% elsif entry.title %}{{ entry.title }}{% endif %}
+                          {% endcapture %}
+
+                          {% if entry.url %}
+                            <h6 class="title font-weight-bold ml-1 ml-md-4">
+                              <a href="{{ entry.url }}">{{ position_title | strip }}</a>
+                            </h6>
+                          {% elsif position_title != '' %}
+                            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ position_title | strip }}</h6>
+                          {% endif %}
+
+                          {% capture organization_name %}
+                            {% if entry.company %}{{ entry.company }}{% elsif entry.name %}{{ entry.name }}{% elsif entry.organization %}{{ entry.organization }}{% elsif entry.awarder %}{{ entry.awarder }}{% endif %}
+                          {% endcapture %}
+                          {% if organization_name != '' %}
+                            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ organization_name | strip }}</h6>
+                          {% endif %}
+
+                          {% if entry.summary %}
+                            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
+                              {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+                            </h6>
+                          {% endif %}
+
+                          {% if entry.highlights %}
+                            <ul class="items">
+                              {% for item in entry.highlights %}
+                                <li>
+                                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                </li>
+                              {% endfor %}
+                            </ul>
+                          {% endif %}
+                        </div>
+                      </div>
+                    </li>
+                  {% endfor %}
+                </ul>
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' or section_title == 'Grants & Funding' or section_title == 'Grants' or section_title == 'Proposals' or section_title == 'Accepted Proposals'%}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
