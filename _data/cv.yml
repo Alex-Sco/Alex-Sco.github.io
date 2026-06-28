@@ -103,13 +103,23 @@ cv:
       - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
         location: Xiamen, China
         date: 2019-05
-        summary: 'Poster: "Does Active IMBH have dusty torus?"'
+        summary: Poster
     
       - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
         location: Hangzhou, China
         date: 2021-05
-        summary: 'Poster & Lightning Talk: "Measuring CNO isotopic ratios in the Galactic outer disk"'
+        summary: Poster & Lightning Talk
     
+      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
+        location: Chengdu, China
+        date: 2021-09
+        summary: Poster & Oral Talk
+
+      - title: KIAA-DoA Seminar 2021, The Kavli Institute for Astronomy and Astrophysics at Peking University
+        location: Beijing, China
+        date: 2021-12
+        summary: Invited Talk
+
       - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
         location: Chengdu, China
         date: 2021-09
@@ -208,20 +218,20 @@ cv:
    
         
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    #Projects:
+    #  - name: Quantum Computing
+    #    summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #    highlights:
+    #      - Quantum Teleportation
+    #      - Quantum Cryptography
+    #    start_date: 2018-01-01
+    #    end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #References:
+    #  - name: Professor John Doe
+    #    icon: fa-solid fa-laptop
+    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #  - name: Professor Jane Smith
+    #    icon: fa-solid fa-thumbtack
+    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
