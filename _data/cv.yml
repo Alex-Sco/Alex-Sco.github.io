@@ -72,6 +72,8 @@ cv:
           - Nanjing University
         start_date: 2019-09
         end_date: 2020-06     
+
+      - name: Projects during my Ph.D. and later are shown in the Projects page.
     
     #Conference Experience:
       
@@ -140,11 +142,6 @@ cv:
         date: 2024-07
         summary: Oral Talk (Best Talks' Prize) 
 
-      - title: The 2nd International Workshop on Astrochemistry
-        location: Chongqing, China
-        date: 2024-07
-        summary: Oral Talk (Best Talks' Prize) 
-
       - title: Exploring the Evolution of CNOPS Elements from Earth and Space
         location: Sesto, Italy
         date: 2026-02
@@ -207,7 +204,7 @@ cv:
       - name: Softwares and Codes
         #level: Master
         icon: fa-solid fa-hashtag
-        keywords: "GILDAS, 3D-PDR, UCLCHEM, RADEX, Python"
+        keywords: "GILDAS, CASA, 3D-PDR, UCLCHEM, RADEX, Python"
 
     Languages:
       - name: Chinese
