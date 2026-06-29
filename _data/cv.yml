@@ -120,13 +120,35 @@ cv:
         date: 2021-12
         summary: Invited Talk
 
-      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
-        location: Chengdu, China
-        date: 2021-09
-        summary: 'Poster & Oral Talk: "Measuring CNO isotopic ratios in the Galactic outer disk"'
+      - title: Molecular Astrochemistry Academic Symposium
+        location: Urumqi, China
+        date: 2023-08
+        summary: Oral Talk
 
-      
+      - title: Academic Symposium on Molecular Clouds and Star Formation
+        location: Chongqing, China
+        date: 2023-10
+        summary: Poster (Best Posters' Prize)   
 
+      - title: "Origin of Elements and Cosmic Evolution: From Big-Bang to Supernovae and Mergershina"
+        location: Beijing, China
+        date: 2023-11
+        summary: Oral Talk   
+
+      - title: The 2nd International Workshop on Astrochemistry
+        location: Chongqing, China
+        date: 2024-07
+        summary: Oral Talk (Best Talks' Prize) 
+
+      - title: The 2nd International Workshop on Astrochemistry
+        location: Chongqing, China
+        date: 2024-07
+        summary: Oral Talk (Best Talks' Prize) 
+
+      - title: Exploring the Evolution of CNOPS Elements from Earth and Space
+        location: Sesto, Italy
+        date: 2026-02
+        summary: Oral Talk 
 
 
 
@@ -182,10 +204,10 @@ cv:
     #    summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Softwares and Codes
+        #level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "GILDAS, 3D-PDR, UCLCHEM, RADEX, Python"
 
     Languages:
       - name: Chinese
