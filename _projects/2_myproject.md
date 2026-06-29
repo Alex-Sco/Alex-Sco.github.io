@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Measuring Galactic CNO isotopic ratio gradients
+title: Oxygen-bearing chemistry in Galactic-scale PDR regions with variety of C/N/O abundance ratios
 description: with background image
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
