@@ -8,18 +8,18 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Large variety of relative abundance ratios between Carbon, Nitrogen and Oxygen has been observed among different types of galaxies. However, most of current astrochemistry studies toward extra-galactic systems assume that the element abundance for different elements decrease with the metallicity at the same scale, lead to constant C/N/O abundance ratios, which is inconsistent with observational results. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+Our work use [3D-PDR](https://itamos.readthedocs.io/en/latest/3d-pdr/3dpdr.html) to model the PDR chemistry 
+
+
+
+
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
