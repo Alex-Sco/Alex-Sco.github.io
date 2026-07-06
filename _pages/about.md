@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at the School of Astronomy and Space Science, Nanjing University, and expect to receive my degree in June 2027. I am currently a visiting Ph.D. student at Leiden Observatory until October 2026.
+I am a Ph.D. candidate at the School of Astronomy and Space Science, Nanjing University, and expect to receive my degree in June 2027. I am currently a visiting Ph.D. student at Leiden Observatory until October 2026. My supervisors are [Zhi-Yu Zhang](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113716.html) and [Serena Viti](https://home.strw.leidenuniv.nl/~viti/).
 
 My current research focuses on two main topics: (a) measuring CNO isotopic ratios in the Milky Way, especially in the Galactic outer disk; and (b) oxygen-bearing chemistry in photodissociation regions (PDRs) with varying C/N/O elemental abundance ratios. I am also interested in the hyperfine anomalies of CN, as well as the excitation and non-LTE radiative transfer of molecular line transitions in molecular clouds and star-forming regions. More details are on the Publications and Projects pages.
 
