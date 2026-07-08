@@ -5,7 +5,7 @@ title: Measuring Galactic CNO isotopic ratio gradients
 img: assets/img/Galactic_Chemical_evolution_v1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 
