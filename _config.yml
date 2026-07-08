@@ -361,7 +361,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
+#  query: "@*"
+  query: "@*[website_show=true]" # in publication page, only show the paper I contributed 
   group_by: year
   group_order: descending
 
