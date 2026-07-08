@@ -17,7 +17,7 @@ The abundance ratios of carbon, nitrogen, oxygen, and their isotopes provide key
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The illustration of the chemical evolution of the Milky Way.  
 </div>
 
 However, the observational CNO isotopic ratios are poorly constrained in the Galactic metal-poor outer disk, particularly in regions with Galactocentric distances > 12 kpc. We are doing a series of studies to derive new CNO isotopic ratios in this region using sub-mm observations towards Galactic molecular clouds with the IRAM 30-m telescope, NOEMA, and ALMA data.
