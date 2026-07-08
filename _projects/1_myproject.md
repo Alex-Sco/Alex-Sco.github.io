@@ -13,7 +13,7 @@ The abundance ratios of carbon, nitrogen, oxygen, and their isotopes provide key
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Galactic_Chemical_evolution_v1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Galactic_Chemical_evolution_v1.png" title="Milky Way chemical evolution illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ However, the observational CNO isotopic ratios are poorly constrained in the Gal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/carbon_ratio_revised_2019_clear_all.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/carbon_ratio_revised_2019_clear_all.png" title="Galactic carbon isotope ratio gradient" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,6 @@ My on-going follow-up works on this topic includes:<br>
 a. The revisiting of the LTE assumptions in current <sup>12</sup>CN/<sup>13</sup>CN methods (to be submitted). This work also linked to the project 3. <br>
 b. The <sup>12</sup>C/<sup>13</sup>C and <sup>16</sup>O/<sup>18</sup>O/<sup>17</sup>O results from ALMA data in Galactic outer disk (in preparation) <br>
 c. The <sup>18</sup>O/<sup>17</sup>O results toward far-outer disk with IRAM 30-m and NOMEA data (in preparation)
-
 
 
 
