@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Oxygen-bearing chemistry in Galactic-scale PDR regions with variety of C/N/O abundance ratios
-description: with background image
+title: Oxygen-bearing chemistry in PDR regions with variety of C/N/O abundance ratios
+#description: with background image
 img: assets/img/12.jpg
 importance: 2
 category: work
