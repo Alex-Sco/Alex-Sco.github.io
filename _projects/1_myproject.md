@@ -22,6 +22,18 @@ The abundance ratios of carbon, nitrogen, oxygen, and their isotopes provide key
 
 However, the observational CNO isotopic ratios are poorly constrained in the Galactic metal-poor outer disk, particularly in regions with Galactocentric distances > 12 kpc. We are doing a series of studies to derive new CNO isotopic ratios in this region using sub-mm observations towards Galactic molecular clouds with the IRAM 30-m telescope, NOEMA, and ALMA data.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/carbon_ratio_revised_2019_clear_all.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Galactic <sup>12</sup>C/<sup>13</sup>C gradient updated by [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract). The Left panel shows the results from classical method to derive <sup>12</sup>CN/<sup>13</sup>CN, and the right panel shows the results from updated method for <sup>12</sup>CN/<sup>13</sup>CN.
+</div>
+
+
+
+
 In addition, we are systematically reassessing the assumptions of all current works. We have found that the previous method to use CN isotopologues have several issues, and providing new <sup>12</sup>CN/<sup>13</sup>CN measurements with updated method [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract).
 
 My on-going follow-up works on this topic includes:<br> 
