@@ -36,7 +36,7 @@ My current research focuses on two main topics: (a) measuring CNO isotopic ratio
 
 Beyond astronomy, I am also interested in geography, biology, and psychology. I also enjoy mobile photography, science fiction (favorite books: <a href="https://en.wikipedia.org/wiki/Hyperion_Cantos">Hyperion Cantos</a>, <a href="https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past">Remembrance of Earth's Past</a> and <a href="https://en.wikipedia.org/wiki/Summa_Technologiae">Summa Technologiae</a>), and rock music (favorite band: <a href="https://en.wikipedia.org/wiki/Dire_Straits">Dire Straits</a>). 
 
-My main Collaborators: [Zhi-Yu Zhang](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113716.html)(Supervisor, please find [our group webpage](https://www.thechemicaluniverse.space/) here), [Serena Viti](https://vitigroup.github.io/)(Supervisor), [Jun-Zhi Wang](https://orcid.org/0000-0001-6106-1171)(Co-supervisor), and [Thomas G. Bisbas](https://thomasbisbas.com/)(Co-supervisor)
+My main collaborators are [Zhi-Yu Zhang](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113716.html)(Supervisor, see [our group webpage](https://www.thechemicaluniverse.space/)), [Serena Viti](https://vitigroup.github.io/)(Supervisor), [Jun-Zhi Wang](https://orcid.org/0000-0001-6106-1171)(Co-supervisor), and [Thomas G. Bisbas](https://thomasbisbas.com/)(Co-supervisor)
 
 
 
