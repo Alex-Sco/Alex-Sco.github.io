@@ -28,16 +28,14 @@ However, the observational CNO isotopic ratios are poorly constrained in the Gal
     </div>
 </div>
 <div class="caption">
-    The Galactic <sup>12</sup>C/<sup>13</sup>C gradient updated by [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract). The Left panel shows the results from classical method to derive <sup>12</sup>CN/<sup>13</sup>CN, and the right panel shows the results from updated method for <sup>12</sup>CN/<sup>13</sup>CN.
+    The Galactic <sup>12</sup>C/<sup>13</sup>C gradient updated by Sun et al. (2024). The Left panel shows the results from classical method to derive <sup>12</sup>CN/<sup>13</sup>CN, and the right panel shows the results from updated method for <sup>12</sup>CN/<sup>13</sup>CN.
 </div>
-
-
 
 
 In addition, we are systematically reassessing the assumptions of all current works. We have found that the previous method to use CN isotopologues have several issues, and providing new <sup>12</sup>CN/<sup>13</sup>CN measurements with updated method [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract).
 
 My on-going follow-up works on this topic includes:<br> 
-a. The revisiting of the LTE assumptions in current <sup>12</sup>CN/<sup>13</sup>CN methods (to be submitted). This work also linked to the project 3. <br>
+a. The revisiting of the LTE assumptions in current <sup>12</sup>CN/<sup>13</sup>CN methods (to be submitted). This work also linked to the [project 3](https://alex-sco.github.io/projects/3_myproject/). <br>
 b. The <sup>12</sup>C/<sup>13</sup>C and <sup>16</sup>O/<sup>18</sup>O/<sup>17</sup>O results from ALMA data in Galactic outer disk (in preparation) <br>
 c. The <sup>18</sup>O/<sup>17</sup>O results toward far-outer disk with IRAM 30-m and NOMEA data (in preparation)
 
