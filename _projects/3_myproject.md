@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The non-LTE excitation of CN hyperfine line components
+title: Non-LTE excitation of CN hyperfine line components
 #description: with background image
 img: assets/img/CN_hyperfine_anomaly_illustration.png
 importance: 3
@@ -18,16 +18,16 @@ related_publications: False
     A illustration of <sup>12</sup>CN N=1-0 hyperfine line components.
 </div>
 
-The <sup>12</sup>CN have hyperfine structures. The <sup>12</sup>CN N=1-0 is splited into nine hyperfine components, and the retative intrinsic strength of these componest keeps fixed in Local thermaldynamic equilibrium (LTE). 
+The <sup>12</sup>CN molecule shows hyperfine structure because <sup>14</sup>N has a non-zero nuclear spin. For the <sup>12</sup>CN 
+<em>N</em>=1&rarr;0 transition, this produces nine hyperfine components. The relative intrinsic strengths between hyperfine components are fixed under local thermodynamic equilibrium (LTE). The observed intensity ratios between optically thin components can therefore be used to trace departures from LTE.
 
+Current estimates of the <sup>12</sup>CN column density and the <sup>12</sup>CN/<sup>13</sup>CN ratio rely strongly on the LTE assumption. The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is a key tracer of the Galactic <sup>12</sup>C/<sup>13</sup>C gradient, and <sup>12</sup>CN column densities are also widely used in astrochemical studies of UV-irradiated regions.
 
-Current derivation of <sup>12</sup>CN column density and <sup>12</sup>CN/<sup>13</sup>CN column density ratios highly relies on the theoretical ratios between hyperfine components, thus relies on the assumption of LTE. 
+The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is one of the key tracers for Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Additionally, the <sup>12</sup>CN column density is interpreted in many astrochemistry studies towards UV-irradiated regions. The reliability of the LTE assumption when deriving the <sup>12</sup>CN column density, therefore, could be important and remains to be tested.
 
-The <sup>12</sup>CN/<sup>13</sup>CN is one of the key tracers for Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Additionally, the <sup>12</sup>CN column density is interpreted in many astrochemistry studies towards UV-irradiated regions. The reliability of the LTE assumption when deriving the <sup>12</sup>CN column density, therefore, could be important and remains to be tested.
-
-Our works on this topic includes:<br>
-(a). With a sample of observations, we have found that the <sup>12</sup>CN have systamtically departures from the LTE condition in Galactic molecular clouds associated with massive star formation. In starless cores, the departure is smaller, but still exist in some targets. Our results indicate that the current LTE assumption of deriving <sup>12</sup>CN/<sup>13</sup>CN may leading to caveats (To be submitted). <br>
-(b). The systematic hyperfine anomaly observed in our targets have several possible origins: non-LTE collisional excitation, the photon selective trappring from the line blending, the UV/Infrared pumping or/and geometry effects. We are testing these possibilities one by one, using models includes RADEX, spectralRADEX, pythonRADEX, LIME and other codes (in preparation). These model tests are hopeful to reveal the underlying physics of the CN hyperfine structure, and benifit deriving CN column density more accurately.  
+Our work on this topic includes:<br>
+(a) We have found observational evidence for systematic departures from LTE in <sup>12</sup>CN hyperfine line ratios in Galactic molecular clouds associated with massive star formation. In starless cores, the deviations are smaller, but still present in some sources (to be submitted).<br>
+(b) We are modeling the origin of these hyperfine anomalies, including non-LTE collisional excitation, selective photon trapping due to line blending, UV/infrared pumping, and geometric effects, using models such as [RADEX](https://home.strw.leidenuniv.nl/~moldata/radex.html), [spectralRADEX](https://spectralradex.readthedocs.io/en/latest/), [pythonRADEX](https://pythonradex.readthedocs.io/en/latest/), [LIME](https://lime.readthedocs.io/en/v1.6.1/usermanual.html), and other tools (in preparation).
 
 
 
