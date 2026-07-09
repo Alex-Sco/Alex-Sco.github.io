@@ -32,13 +32,10 @@ However, the observational CNO isotopic ratios are poorly constrained in the Gal
 </div>
 
 
-In addition, we are systematically reassessing the assumptions of all current works. We have found that the previous method to use CN isotopologues have several issues, and providing new <sup>12</sup>CN/<sup>13</sup>CN measurements with updated method [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract).
+In addition, We are re-examining the assumptions behind current methods for deriving CNO isotopic ratios. We have found that the previous method to use CN isotopologues have several issues, and providing new <sup>12</sup>CN/<sup>13</sup>CN results with an updated method [Sun et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8151S/abstract).
 
-My on-going follow-up works on this topic includes:<br> 
-a. The revisiting of the LTE assumptions in current <sup>12</sup>CN/<sup>13</sup>CN methods (to be submitted). This work also linked to the [project 3](https://alex-sco.github.io/projects/3_myproject/). <br>
+My on-going follow-up works includes:<br> 
+a. a. Reassessing the LTE assumption in current <sup>12</sup>CN/<sup>13</sup>CN studies (to be submitted), also connected to [project 3](https://alex-sco.github.io/projects/3_myproject/). <br>
 b. The <sup>12</sup>C/<sup>13</sup>C and <sup>16</sup>O/<sup>18</sup>O/<sup>17</sup>O results from ALMA data in Galactic outer disk (in preparation) <br>
 c. The <sup>18</sup>O/<sup>17</sup>O results toward far-outer disk with IRAM 30-m and NOMEA data (in preparation)
-
-
-
 
