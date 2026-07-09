@@ -15,10 +15,13 @@ related_publications: False
     </div>
 </div>
 <div class="caption">
-    A illustration of <sup>12</sup>CN N=1-0 hyperfine line components. The 
+    A illustration of <sup>12</sup>CN N=1-0 hyperfine line components.
 </div>
 
-Current derivation of <sup>12</sup>CN column density and <sup>12</sup>CN/<sup>13</sup>CN column density ratios highly relies on the assumption of the local thermodynamic equilibrium (LTE). 
+The <sup>12</sup>CN have hyperfine structures. The <sup>12</sup>CN N=1-0 is splited into nine hyperfine components, and the retative intrinsic strength of these componest keeps fixed in Local thermaldynamic equilibrium (LTE). 
+
+
+Current derivation of <sup>12</sup>CN column density and <sup>12</sup>CN/<sup>13</sup>CN column density ratios highly relies on the theoretical ratios between hyperfine components, thus relies on the assumption of LTE. 
 
 The <sup>12</sup>CN/<sup>13</sup>CN is one of the key tracers for Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Additionally, the <sup>12</sup>CN column density is interpreted in many astrochemistry studies towards UV-irradiated regions. The reliability of the LTE assumption when deriving the <sup>12</sup>CN column density, therefore, could be important and remains to be tested.
 
