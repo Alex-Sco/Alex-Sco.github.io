@@ -21,7 +21,7 @@ related_publications: False
 The <sup>12</sup>CN molecule shows hyperfine structure because <sup>14</sup>N has a non-zero nuclear spin. For the <sup>12</sup>CN 
 <em>N</em>=1&rarr;0 transition, this produces nine hyperfine components. The relative intrinsic strengths between hyperfine components are fixed under local thermodynamic equilibrium (LTE). The observed intensity ratios between optically thin components can therefore be used to trace departures from LTE.
 
-Current estimates of the <sup>12</sup>CN column density and the <sup>12</sup>CN/<sup>13</sup>CN column deensity ratio rely strongly on the LTE assumption. 
+Current estimates of the <sup>12</sup>CN column density and the <sup>12</sup>CN/<sup>13</sup>CN column density ratio rely strongly on the LTE assumption. 
 
 The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is a key tracer of the Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Moreover, the <sup>12</sup>CN column density is widely used in astrochemical studies of UV-irradiated regions. It is therefore important to test the validity of the LTE assumption when deriving the <sup>12</sup>CN column density.
 
