@@ -57,8 +57,8 @@ cv:
         #  - Description 2.
     
     Early Projects:
-      - name: Does the active immediate black holes have the dusty torus?
-        summary: Using the Balmer decrement, the color-color diagram, and the X-ray signals to cross-check the evidence of dusty tori of IMBHs in a sample of dwarf galaxies.
+      - name: Does the active intermediate-mass black holes have the dusty torus?
+        summary: Using the Balmer decrement, color-color diagrams, and X-ray emission to cross-check the evidence for dusty tori around IMBHs in a sample of dwarf galaxies.
         highlights:
           - "Supervisor: Yong Shi"
           - Nanjing University
@@ -66,7 +66,7 @@ cv:
         end_date: 2019-06
 
       - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
-        summary: Data reduction toward single point integration sub-mm data of molecular clouds, identify the line transitions, and calculate their abundance ratios.
+        summary: Reducing single-pointing submillimeter data of molecular clouds, identifying line transitions, and deriving the corresponding column density ratios.
         highlights:
           - "Supervisor: Zhi-Yu Zhang"
           - Nanjing University

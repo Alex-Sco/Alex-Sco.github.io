@@ -15,15 +15,15 @@ related_publications: False
     </div>
 </div>
 <div class="caption">
-    A illustration of <sup>12</sup>CN N=1-0 hyperfine line components.
+    A illustration of <sup>12</sup>CN <em>N</em>=1&rarr;0 hyperfine line components.
 </div>
 
 The <sup>12</sup>CN molecule shows hyperfine structure because <sup>14</sup>N has a non-zero nuclear spin. For the <sup>12</sup>CN 
 <em>N</em>=1&rarr;0 transition, this produces nine hyperfine components. The relative intrinsic strengths between hyperfine components are fixed under local thermodynamic equilibrium (LTE). The observed intensity ratios between optically thin components can therefore be used to trace departures from LTE.
 
-Current estimates of the <sup>12</sup>CN column density and the <sup>12</sup>CN/<sup>13</sup>CN ratio rely strongly on the LTE assumption. The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is a key tracer of the Galactic <sup>12</sup>C/<sup>13</sup>C gradient, and <sup>12</sup>CN column densities are also widely used in astrochemical studies of UV-irradiated regions.
+Current estimates of the <sup>12</sup>CN column density and the <sup>12</sup>CN/<sup>13</sup>CN column deensity ratio rely strongly on the LTE assumption. 
 
-The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is one of the key tracers for Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Additionally, the <sup>12</sup>CN column density is interpreted in many astrochemistry studies towards UV-irradiated regions. The reliability of the LTE assumption when deriving the <sup>12</sup>CN column density, therefore, could be important and remains to be tested.
+The <sup>12</sup>CN/<sup>13</sup>CN column density ratio is a key tracer of the Galactic <sup>12</sup>C/<sup>13</sup>C gradient. Moreover, the <sup>12</sup>CN column density is widely used in astrochemical studies of UV-irradiated regions. It is therefore important to test the validity of the LTE assumption when deriving the <sup>12</sup>CN column density.
 
 Our work on this topic includes:<br>
 (a) We have found observational evidence for systematic departures from LTE in <sup>12</sup>CN hyperfine line ratios in Galactic molecular clouds associated with massive star formation. In starless cores, the deviations are smaller, but still present in some sources (to be submitted).<br>
