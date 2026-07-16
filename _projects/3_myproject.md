@@ -15,7 +15,7 @@ related_publications: False
     </div>
 </div>
 <div class="caption">
-    A illustration of <sup>12</sup>CN <em>N</em>=1&rarr;0 hyperfine line components.
+    An illustration of <sup>12</sup>CN <em>N</em>=1&rarr;0 hyperfine line components.
 </div>
 
 The <sup>12</sup>CN molecule shows hyperfine structure because <sup>14</sup>N has a non-zero nuclear spin. For the <sup>12</sup>CN 
