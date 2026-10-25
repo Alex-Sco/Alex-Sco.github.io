@@ -57,24 +57,7 @@ cv:
         #  - Description 1.
         #  - Description 2.
     
-    Early Projects:
-      - name: Does the active intermediate-mass black holes have the dusty torus?
-        summary: Using the Balmer decrement, color-color diagrams, and X-ray emission to cross-check the evidence for dusty tori around IMBHs in a sample of dwarf galaxies.
-        highlights:
-          - "Supervisor: Yong Shi"
-          - Nanjing University
-        start_date: 2018-09
-        end_date: 2019-06
 
-      - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
-        summary: Reducing single-pointing submillimeter data of molecular clouds, identifying line transitions, and deriving the corresponding column density ratios.
-        highlights:
-          - "Supervisor: Zhi-Yu Zhang"
-          - Nanjing University
-        start_date: 2019-09
-        end_date: 2020-06     
-
-      - name: Projects during my Ph.D. and later are shown in the Projects page.
     
     #Conference Experience:
       
@@ -103,61 +86,93 @@ cv:
     #      - "Men of the year 2014 by Time magazine"
 
     Conference and Awards:
-      - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
-        location: Xiamen, China
-        date: 2019-05
-        summary: Poster
-    
-      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
-        location: Hangzhou, China
-        date: 2021-05
-        summary: Poster & Lightning Talk
-    
-      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
-        location: Chengdu, China
-        date: 2021-09
-        summary: Poster & Oral Talk (Outstanding Poster Award)
 
-      - title: Molecular Astrochemistry Academic Symposium
-        location: Urumqi, China
-        date: 2023-08
-        summary: Oral Talk
-
-      - title: Academic Symposium on Molecular Clouds and Star Formation
-        location: Chongqing, China
-        date: 2023-10
-        summary: Poster (Outstanding Poster Award)   
-
-      - title: "Origin of Elements and Cosmic Evolution: From Big-Bang to Supernovae and Mergershina"
-        location: Beijing, China
-        date: 2023-11
+      - title: COSPAR 2026
+        location: Florence, Italy
+        date: 2026-08
         summary: Oral Talk   
-
-      - title: The 2nd International Workshop on Astrochemistry
-        location: Chongqing, China
-        date: 2024-07
-        summary: Oral Talk (Outstanding Presentation Award) 
 
       - title: Exploring the Evolution of CNOPS Elements from Earth and Space
         location: Sesto, Italy
         date: 2026-02
         summary: Oral Talk 
 
+      - title: The 2nd International Workshop on Astrochemistry
+        location: Chongqing, China
+        date: 2024-07
+        summary: Oral Talk (Outstanding Presentation Award) 
+
+      - title: "Origin of Elements and Cosmic Evolution: From Big-Bang to Supernovae and Mergershina"
+        location: Beijing, China
+        date: 2023-11
+        summary: Oral Talk   
+
+      - title: Academic Symposium on Molecular Clouds and Star Formation
+        location: Chongqing, China
+        date: 2023-10
+        summary: Poster (Outstanding Poster Award)   
+
+      - title: Molecular Astrochemistry Academic Symposium
+        location: Urumqi, China
+        date: 2023-08
+        summary: Oral Talk
+
+      - title: The 16th International Symposium on Nuclei in the Cosmos-School of Nuclear Astrophysics
+        location: Chengdu, China
+        date: 2021-09
+        summary: Poster & Oral Talk (Outstanding Poster Award)
+
+      - title: The 23rd CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        location: Hangzhou, China
+        date: 2021-05
+        summary: Poster & Lightning Talk
+
+      - title: The 21st CAS Guo Shoujing Symposium on Galaxies and Cosmology
+        location: Xiamen, China
+        date: 2019-05
+        summary: Poster
+    
+
+
+
+   
+
     Seminars and Talks:
-      - title: KIAA-DoA Seminar 2021, The Kavli Institute for Astronomy and Astrophysics at Peking University
+
+      - title: Consejo Superior de Investigaciones Científicas (CSIC),
+        location: Madrid, Spain
+        date: 2026-10
+
+      - title: Max Planck Institute for Radio Astronomy,
+        location: Bonn, Germany
+        date: 2026-10
+
+      - title: University of Cologne,
+        location: Cologne, Germany
+        date: 2026-10
+
+      - title: Max Planck institute for Astronomy,
+        location: Heidelberg, Germany
+        date: 2026-09
+
+      - title: Paris Observatory Meudon Campus,
+        location: Paris, France
+        date: 2026-09
+
+      - title: Leiden Observatory
+        location: Leiden, the Netherlands
+        date: 2026-06
+
+      - title: The Kapteyn Astronomical Institute
+        location: Grogingen, the Netherlands
+        date: 2026-03
+
+      - title: The Kavli Institute for Astronomy and Astrophysics at Peking University
         location: Beijing, China
         date: 2021-12
-        summary: Invited Talk
 
-      - title: the SPFE meeting in the Kapteyn Astronomical Institute
-        location: Grogingen, Netherlands
-        date: 2026-03
-        summary: Oral Talk
 
-      - title: Astrochemistry Seminar of Leiden Observatory
-        location: Leiden, Netherlands
-        date: 2026-06
-        summary: Oral Talk
+
 
     Accepted Proposals:
       - title: ALMA Cycle-8 ACA supplement (P.I.)
@@ -183,6 +198,25 @@ cv:
 
       - title: ALMA cycle-12 (Co-I)
         date: 2025 
+
+    Early Projects:
+      - name: Does the active intermediate-mass black holes have the dusty torus?
+        summary: Using the Balmer decrement, color-color diagrams, and X-ray emission to cross-check the evidence for dusty tori around IMBHs in a sample of dwarf galaxies.
+        highlights:
+          - "Supervisor: Yong Shi"
+          - Nanjing University
+        start_date: 2018-09
+        end_date: 2019-06
+
+      - name: Identifying molecular lines in the molecular clouds of the Galactic metal-poor outer disk.
+        summary: Reducing single-pointing submillimeter data of molecular clouds, identifying line transitions, and deriving the corresponding column density ratios.
+        highlights:
+          - "Supervisor: Zhi-Yu Zhang"
+          - Nanjing University
+        start_date: 2019-09
+        end_date: 2020-06     
+
+      - name: Projects during my Ph.D. and later are shown in the Projects page.
 
 
     #Publications:
