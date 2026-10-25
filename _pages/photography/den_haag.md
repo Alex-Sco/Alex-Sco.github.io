@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Hague
-permalink: /photography/Den_Haag/
+permalink: /photography/den-haag/
 nav: false
 sitemap: false
 images:
@@ -12,7 +12,7 @@ images:
 
 <p><a href="{{ '/photography/' | relative_url }}">&larr; Mobile Photography</a></p>
 
-{% assign place = site.data.photography.places | where: 'slug', 'new-york' | first %}
+{% assign place = site.data.photography.places | where: 'slug', 'den-haag' | first %}
 <div class="photo-gallery spotlight-group">
 {% for photo in place.photos %}
   <figure>

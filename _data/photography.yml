@@ -22,8 +22,8 @@ places:
   - slug: den-haag
     title: The Hague
     subtitle: The Hague (Den Haag), the Netherlands
-    cover: /assets/photography/Den_Haag/DenHaagCBD_1.jpg
+    cover: /assets/img/photography/Den_Haag/DenHaagCBD_1.jpg
     photos:
-      - image: /assets/photography/Den_Haag/DenHaagCBD_1.jpg
+      - image: /assets/img/photography/Den_Haag/DenHaagCBD_1.jpg
         alt: 
         caption: Buildings at the city center of The Hague

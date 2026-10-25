@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tenerife
-permalink: /photography/Tenerife/
+permalink: /photography/tenerife/
 nav: false
 sitemap: false
 images:
@@ -12,7 +12,7 @@ images:
 
 <p><a href="{{ '/photography/' | relative_url }}">&larr; Mobile Photography</a></p>
 
-{% assign place = site.data.photography.places | where: 'slug', 'new-york' | first %}
+{% assign place = site.data.photography.places | where: 'slug', 'tenerife' | first %}
 <div class="photo-gallery spotlight-group">
 {% for photo in place.photos %}
   <figure>
