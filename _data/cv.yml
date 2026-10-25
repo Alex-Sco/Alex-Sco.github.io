@@ -118,11 +118,6 @@ cv:
         date: 2021-09
         summary: Poster & Oral Talk (Outstanding Poster Award)
 
-      - title: KIAA-DoA Seminar 2021, The Kavli Institute for Astronomy and Astrophysics at Peking University
-        location: Beijing, China
-        date: 2021-12
-        summary: Invited Talk
-
       - title: Molecular Astrochemistry Academic Symposium
         location: Urumqi, China
         date: 2023-08
@@ -148,17 +143,21 @@ cv:
         date: 2026-02
         summary: Oral Talk 
 
+    Seminars and Talks:
+      - title: KIAA-DoA Seminar 2021, The Kavli Institute for Astronomy and Astrophysics at Peking University
+        location: Beijing, China
+        date: 2021-12
+        summary: Invited Talk
+
       - title: the SPFE meeting in the Kapteyn Astronomical Institute
         location: Grogingen, Netherlands
         date: 2026-03
-        summary: Oral Talk 
+        summary: Oral Talk
 
       - title: Astrochemistry Seminar of Leiden Observatory
         location: Leiden, Netherlands
         date: 2026-06
-        summary: Oral Talk 
-
-
+        summary: Oral Talk
 
     Accepted Proposals:
       - title: ALMA Cycle-8 ACA supplement (P.I.)

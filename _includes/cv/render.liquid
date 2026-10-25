@@ -151,7 +151,7 @@
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
-              {% elsif section_title == 'Conference and Awards' %}
+              {% elsif section_title == 'Conference and Awards' or section_title == 'Seminars and Talks' %}
                 {% assign entries = section_entries %}
                 <ul class="card-text font-weight-light list-group list-group-flush">
                   {% for entry in entries %}
