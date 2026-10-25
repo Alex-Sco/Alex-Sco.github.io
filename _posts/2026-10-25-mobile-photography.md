@@ -24,4 +24,4 @@ comments: false
 {% endfor %}
 </div>
 
-<p class="photo-note">The images above are template examples. My own photographs will be added here.</p>
+<p class="photo-note"> My own photographs will be added here.</p>
