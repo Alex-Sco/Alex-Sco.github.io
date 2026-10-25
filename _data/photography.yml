@@ -1,18 +1,29 @@
 # Replace these template photos with your own images in assets/img/photography/.
 places:
-  - slug: new-york
-    title: New York
-    subtitle: Example location
-    cover: /assets/img/10.jpg
+  - slug: tenerife
+    title: Tenerife
+    subtitle: Tenerife, Spain
+    cover: /assets/img/photography/Tenerife/RoadtoSea.jpg
     photos:
-      - image: /assets/img/10.jpg
-        alt: Flatiron Building in New York
-        caption: Template sample photo
-  - slug: san-francisco
-    title: San Francisco
-    subtitle: Example location
-    cover: /assets/img/11.jpg
+      - image: /assets/img/photography/Tenerife/RoadtoSea.jpg
+        alt: 
+        caption:  A road towards the seaside
+      - image: /assets/img/photography/Tenerife/MountainCloud.jpg
+        alt: 
+        caption:  View from the Mount Teide
+      - image: /assets/img/photography/Tenerife/BlackBeach.jpg
+        alt: 
+        caption: Black-sand beaches, Puerto de la Cruz
+      - image: /assets/img/photography/Tenerife/TheHarbor.jpg
+        alt: 
+        caption: The harbor, Santa Cruz de Tenerife  
+      
+      
+  - slug: den-haag
+    title: The Hague
+    subtitle: The Hague (Den Haag), the Netherlands
+    cover: /assets/photography/Den_Haag/DenHaagCBD_1.jpg
     photos:
-      - image: /assets/img/11.jpg
-        alt: Transamerica Pyramid in San Francisco
-        caption: Template sample photo
+      - image: /assets/photography/Den_Haag/DenHaagCBD_1.jpg
+        alt: 
+        caption: Buildings at the city center of The Hague
