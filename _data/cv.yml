@@ -35,7 +35,7 @@ cv:
         #  - Description 2.
 
       - institution: Leiden Observatory
-        location: Leiden, Netherlands
+        location: Leiden, the Netherlands
         area: Astrophysics
         studyType: Ph.D. (guest)
         start_date: 2024-10
@@ -142,34 +142,42 @@ cv:
       - title: Consejo Superior de Investigaciones Científicas (CSIC),
         location: Madrid, Spain
         date: 2026-10
+        summary: Oral Talk
 
       - title: Max Planck Institute for Radio Astronomy,
         location: Bonn, Germany
         date: 2026-10
+        summary: Oral Talk
 
       - title: University of Cologne,
         location: Cologne, Germany
         date: 2026-10
+        summary: Oral Talk
 
       - title: Max Planck institute for Astronomy,
         location: Heidelberg, Germany
         date: 2026-09
+        summary: Oral Talk
 
       - title: Paris Observatory Meudon Campus,
         location: Paris, France
         date: 2026-09
+        summary: Oral Talk
 
       - title: Leiden Observatory
         location: Leiden, the Netherlands
         date: 2026-06
+        summary: Oral Talk
 
       - title: The Kapteyn Astronomical Institute
         location: Grogingen, the Netherlands
         date: 2026-03
+        summary: Oral Talk
 
       - title: The Kavli Institute for Astronomy and Astrophysics at Peking University
         location: Beijing, China
         date: 2021-12
+        summary: Oral Talk
 
 
 
