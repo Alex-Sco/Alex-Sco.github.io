@@ -10,6 +10,18 @@
   Both formats use the same unified rendering includes for consistent output
 {% endcomment %}
 
+<style>
+  .cv-education .date-column,
+  .cv-education .date-column .table-cv td {
+    text-align: left !important;
+  }
+
+  .cv-education .date-column .table-cv {
+    margin-left: 0;
+    margin-right: auto;
+  }
+</style>
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
@@ -150,7 +162,9 @@
             <div>
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
-                {% include cv/education.liquid %}
+                <div class="cv-education">
+                  {% include cv/education.liquid %}
+                </div>
               {% elsif section_title == 'Conference and Awards' or section_title == 'Seminars and Talks' %}
                 {% assign entries = section_entries %}
                 <ul class="card-text font-weight-light list-group list-group-flush">
