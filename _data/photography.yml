@@ -1,0 +1,18 @@
+# Replace these template photos with your own images in assets/img/photography/.
+places:
+  - slug: new-york
+    title: New York
+    subtitle: Example location
+    cover: /assets/img/10.jpg
+    photos:
+      - image: /assets/img/10.jpg
+        alt: Flatiron Building in New York
+        caption: Template sample photo
+  - slug: san-francisco
+    title: San Francisco
+    subtitle: Example location
+    cover: /assets/img/11.jpg
+    photos:
+      - image: /assets/img/11.jpg
+        alt: Transamerica Pyramid in San Francisco
+        caption: Template sample photo
